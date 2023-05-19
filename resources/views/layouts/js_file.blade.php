@@ -1,0 +1,10 @@
+<script type="text/javascript" src="{{ asset('dist/js/app.js') }}"></script>
+<script type="module" src="{{ asset('src/js/modules/chartjs.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/app.js') }}"></script>
+<script type="module" src="{{ asset('src/js/modules/bootstrap.js') }}"></script>
+<script type="module" src="{{ asset('src/js/modules/feather.js') }}"></script>
+<script type="module" src="{{ asset('src/js/modules/flatpickr.js') }}"></script>
+<script type="module" src="{{ asset('src/js/modules/sidebar.js') }}"></script>
+<script type="text/javascript" src="{{ asset('src/js/modules/theme.js') }}"></script>
+<script type="module" src="{{ asset('src/js/modules/vector-maps.js') }}"></script>
+<script type="text/javascript" src="{{ asset('dist/js/app.js') }}"></script>
